@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.bin
+*.prob
+.cph/
+tempCodeRunnerFile*
+output/
